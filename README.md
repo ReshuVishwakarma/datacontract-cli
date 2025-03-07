@@ -1399,7 +1399,6 @@ Example:
 datacontract import --format protobuf --source "test.proto"
 ```
 
-
 ### breaking
 ```
                                                                                 
